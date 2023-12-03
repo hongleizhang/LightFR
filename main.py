@@ -122,5 +122,5 @@ class LightFR(Base):
 
 
 if __name__ == '__main__':
-    dcff = LightFR()
-    dcff.main()
+    model = LightFR()
+    model.main()
